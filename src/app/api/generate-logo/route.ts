@@ -19,7 +19,10 @@ export async function POST(req: NextRequest) {
       quality: 'standard',
     });
 
-    const imageUrl = response.data[0].url;
+    const imageUrl = response.data?.[0]?.url;
+if (!imageUrl) {
+  return NextResponse.json({ error: 'No image generated' }, { status: 500 });
+}
     return NextResponse.json({ url: imageUrl });
   } catch (error: any) {
     return NextResponse.json({ error: error.message }, { status: 500 });
