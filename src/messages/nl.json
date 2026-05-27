@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Home",
+    "configurator": "Configureer",
+    "about": "Over ons",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Logomatten op maat",
+    "hero_subtitle": "Professionele entree-matten met jouw logo. Snel geleverd, hoge kwaliteit.",
+    "cta": "Configureer nu",
+    "features_title": "Waarom Carpetz?",
+    "feature_quality": "Topkwaliteit",
+    "feature_quality_desc": "Duurzame materialen, scherpe logodruk",
+    "feature_fast": "Snelle levering",
+    "feature_fast_desc": "10-15 werkdagen na betaling",
+    "feature_custom": "Volledig op maat",
+    "feature_custom_desc": "Elke maat, kleur en logo mogelijk"
+  },
+  "configurator": {
+    "title": "Configureer je mat",
+    "step_mat": "Mat type",
+    "step_size": "Afmeting",
+    "step_logo": "Logo",
+    "step_order": "Bestellen",
+    "type_comfort": "Comfort",
+    "type_prestige": "Prestige",
+    "type_outdoor": "Outdoor",
+    "width": "Breedte (cm)",
+    "height": "Hoogte (cm)",
+    "quantity": "Aantal",
+    "color": "Matkleur",
+    "logo_color": "Logokleur",
+    "upload_logo": "Upload logo",
+    "generate_logo": "Genereer met AI",
+    "next": "Volgende",
+    "prev": "Vorige",
+    "order_now": "Bestelling plaatsen"
+  },
+  "checkout": {
+    "title": "Bestelling afronden",
+    "first_name": "Voornaam",
+    "last_name": "Achternaam",
+    "email": "E-mailadres",
+    "phone": "Telefoonnummer",
+    "address": "Adres",
+    "city": "Stad",
+    "postal_code": "Postcode",
+    "country": "Land",
+    "is_company": "Bestelling voor bedrijf",
+    "company_name": "Bedrijfsnaam",
+    "vat_number": "BTW-nummer",
+    "submit": "Bevestig bestelling",
+    "price_excl": "Prijs excl. BTW",
+    "vat": "BTW (21%)",
+    "price_incl": "Totaal incl. BTW"
+  },
+  "thankyou": {
+    "title": "Bedankt voor je bestelling!",
+    "message": "We hebben je bestelling ontvangen. Je krijgt een bevestiging per e-mail.",
+    "back_home": "Terug naar home"
+  },
+  "footer": {
+    "rights": "Alle rechten voorbehouden",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden"
+  }
+}

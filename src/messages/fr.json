@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "configurator": "Configurer",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Tapis logo sur mesure",
+    "hero_subtitle": "Tapis d'entrée professionnels avec votre logo. Livraison rapide, haute qualité.",
+    "cta": "Configurer maintenant",
+    "features_title": "Pourquoi Carpetz?",
+    "feature_quality": "Qualité supérieure",
+    "feature_quality_desc": "Matériaux durables, impression nette du logo",
+    "feature_fast": "Livraison rapide",
+    "feature_fast_desc": "10-15 jours ouvrables après paiement",
+    "feature_custom": "Entièrement sur mesure",
+    "feature_custom_desc": "Toute taille, couleur et logo possible"
+  },
+  "configurator": {
+    "title": "Configurez votre tapis",
+    "step_mat": "Type de tapis",
+    "step_size": "Dimensions",
+    "step_logo": "Logo",
+    "step_order": "Commander",
+    "type_comfort": "Confort",
+    "type_prestige": "Prestige",
+    "type_outdoor": "Extérieur",
+    "width": "Largeur (cm)",
+    "height": "Hauteur (cm)",
+    "quantity": "Quantité",
+    "color": "Couleur du tapis",
+    "logo_color": "Couleur du logo",
+    "upload_logo": "Télécharger logo",
+    "generate_logo": "Générer avec IA",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "order_now": "Passer la commande"
+  },
+  "checkout": {
+    "title": "Finaliser la commande",
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "email": "Adresse e-mail",
+    "phone": "Numéro de téléphone",
+    "address": "Adresse",
+    "city": "Ville",
+    "postal_code": "Code postal",
+    "country": "Pays",
+    "is_company": "Commande pour entreprise",
+    "company_name": "Nom de l'entreprise",
+    "vat_number": "Numéro TVA",
+    "submit": "Confirmer la commande",
+    "price_excl": "Prix hors TVA",
+    "vat": "TVA (21%)",
+    "price_incl": "Total TVA incluse"
+  },
+  "thankyou": {
+    "title": "Merci pour votre commande!",
+    "message": "Nous avons bien reçu votre commande. Vous recevrez une confirmation par e-mail.",
+    "back_home": "Retour à l'accueil"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales"
+  }
+}
